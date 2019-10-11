@@ -1,0 +1,25 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+.ui-page {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.mui_flex {
+  display: flex;
+}
+.mui_align-items-center {
+  align-items: center
+}
+.mui_justify-items-center {
+  justify-items: center;
+}
+.mui_l-auto {
+  margin-left: auto;
+}
+.mui_r-auto {
+  margin-right: auto;
+}
