@@ -18,6 +18,7 @@
       <div class="mui_l-auto mui_r-auto" style="background: red;">333</div>
       <div class="right">2342343242332</div>
     </div>
+    <div class="mui_flex"></div>
   </div>
 </template>
 
