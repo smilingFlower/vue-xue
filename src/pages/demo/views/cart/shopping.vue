@@ -1,6 +1,6 @@
 <template>
   <div class="ui-page">
-    index
+    shopping
   </div>
 </template>
 

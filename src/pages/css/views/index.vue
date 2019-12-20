@@ -23,10 +23,10 @@
     <div id="container" @touchmove="getUserAction">
       {{count}}
     </div> -->
-    <div class="verticle-mode">
+    <!-- <div class="verticle-mode">
       <h4>咏柳</h4>
       <p>碧玉妆成一树高，<br>万条垂下绿丝绦。<br>不知细叶谁裁出，<br>二月春风似剪刀。</p> 
-    </div>
+    </div> -->
   </div>
 </template>
 
